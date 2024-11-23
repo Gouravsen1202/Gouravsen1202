@@ -3,9 +3,6 @@ My name is Gourav Sen, and I’m a Computer Science Engineering student from Seh
 
 I enjoy solving complex problems and constantly seek new challenges to improve my coding skills. Outside of studies, I work on personal projects and contribute to open-source communities. Machine learning and AI are areas I’m keen to explore further.
 
-I’m dedicated to continuous learning and hope to make a meaningful impact through technology in the future.
-
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/GouravSen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gouravsen) 
 
