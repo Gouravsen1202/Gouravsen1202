@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello! My name is Gourav Sen, and I am a student currently pursuing a degree in Computer Science Engineering. I live in Sehore, a city in the state of Madhya Pradesh, India. Being a part of the rapidly growing field of technology, I am deeply passionate about computer science, software development, and all things tech.<br><br>In my academic journey, I've gained a strong foundation in subjects such as algorithms, data structures, programming languages, and software engineering principles. My interests also extend to areas like artificial intelligence, machine learning, and cybersecurity, and I’m always excited to explore new technologies.<br><br>Sehore, my hometown, is a small yet vibrant city that provides a peaceful environment for studying, but also offers access to the opportunities of nearby urban areas like Bhopal. Whether I am working on coding projects, participating in tech discussions, or collaborating on group assignments, I am always looking to expand my knowledge and 
+My name is Gourav Sen, and I’m a Computer Science Engineering student from Sehore. I have a strong passion for programming, particularly in Python, which I find both versatile and powerful. I love exploring Python for web development, automation, and data science projects.
+
+I enjoy solving complex problems and constantly seek new challenges to improve my coding skills. Outside of studies, I work on personal projects and contribute to open-source communities. Machine learning and AI are areas I’m keen to explore further.
+
+I’m dedicated to continuous learning and hope to make a meaningful impact through technology in the future.
 
 
 ## 🌐 Socials:
