@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Gourav Sen, and I’m a Computer Science Engineering student from Sehore. I have a strong passion for programming, particularly in Python, which I find both versatile and powerful. I love exploring Python for web development, automation, and data science projects.
+My name is Gourav Sen, and I’m a Computer Science Engineering student from Sehore. I have a strong passion for programming, particularly in Python, Which I find both versatile and powerful. I love exploring Python for web development, automation, and data science projects.
 
 I enjoy solving complex problems and constantly seek new challenges to improve my coding skills. Outside of studies, I work on personal projects and contribute to open-source communities. Machine learning and AI are areas I’m keen to explore further.
 
